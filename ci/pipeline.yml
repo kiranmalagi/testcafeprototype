@@ -22,5 +22,5 @@ resources:
 - name: source-repo
   type: git
   source:
-    uri: https://github.com/ramakrishnakudikala/testcafeprototype.git
+    uri: https://github.com/kiranmalagi/testcafeprototype.git
     branch: master
